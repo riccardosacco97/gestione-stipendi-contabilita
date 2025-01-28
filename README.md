@@ -14,7 +14,4 @@ Gestione Operazioni Finanziarie: Aggiunta di entrate e uscite aziendali.
 Bilancio Aziendale: Calcolo e visualizzazione del bilancio aziendale (entrate - uscite).
 Come utilizzare
 
-1. Clona la repository
-Per prima cosa, clona il repository nel tuo ambiente di sviluppo locale utilizzando Git:
-
 git clone https://github.com/tuo-username/gestione-stipendi-contabilita.git
