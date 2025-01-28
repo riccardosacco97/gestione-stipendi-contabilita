@@ -14,11 +14,3 @@ Questo è un programma in Java che consente la gestione degli stipendi e della c
 3. **Gestione Operazioni Finanziarie**: Aggiunta di entrate e uscite aziendali.
 4. **Bilancio Aziendale**: Calcolo e visualizzazione del bilancio aziendale (entrate - uscite).
 
-## Come utilizzare
-
-### 1. Clona la repository
-
-Per prima cosa, clona il repository nel tuo ambiente di sviluppo locale utilizzando Git:
-
-```bash
-git clone https://github.com/tuo-username/gestione-stipendi-contabilita.git
